@@ -1,4 +1,4 @@
-## current state of the project: incomplete and frozen, waiting for outsider help or reincarnate
+## current state of the project: incomplete and frozen, waiting for outsider help or reincarnate interest
 
 ### Check it out at [melopee.github.io/ithkuil_fr/](https://melopee.github.io/ithkuil_fr/)!
 more specifically ⦅waiting for a global unified header peculiar to the translation⦆
