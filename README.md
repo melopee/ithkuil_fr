@@ -1,26 +1,30 @@
-## current state of the project: incomplete and frozen, waiting for outsider help or reincarnate interest
+## current state of the project: incomplete, waiting for external interest or reborn will
 
 ### Check it out at [melopee.github.io/ithkuil_fr/](https://melopee.github.io/ithkuil_fr/)!
 more specifically ⦅waiting for a global unified header peculiar to the translation⦆
 
-+ [fr_00_intro_utf8.html](https://melopee.github.io/ithkuil_fr/fr_00_intro_utf8.html)
-+ [fr_01_phonology_utf8.html](https://melopee.github.io/ithkuil_fr/fr_01_phonology_utf8.html)
++ ⁕ [fr_00_intro_utf8.html](https://melopee.github.io/ithkuil_fr/fr_00_intro_utf8.html)
++ ⁕ [fr_01_phonology_utf8.html](https://melopee.github.io/ithkuil_fr/fr_01_phonology_utf8.html)
 + [fr_02_morpho-phonology_utf8.html](https://melopee.github.io/ithkuil_fr/fr_02_morpho-phonology_utf8.html)
-+ [fr_03_morphology_utf8.html](https://melopee.github.io/ithkuil_fr/fr_03_morphology_utf8.html)
-+ [fr_04_case_utf8.html](https://melopee.github.io/ithkuil_fr/fr_04_case_utf8.html)
++ ⁕ [fr_03_morphology_utf8.html](https://melopee.github.io/ithkuil_fr/fr_03_morphology_utf8.html)
++ ⁕ [fr_04_case_utf8.html](https://melopee.github.io/ithkuil_fr/fr_04_case_utf8.html)
 + [fr_05_verbs_1_utf8.html](https://melopee.github.io/ithkuil_fr/fr_05_verbs_1_utf8.html)
 + [fr_06_verbs_2_utf8.html](https://melopee.github.io/ithkuil_fr/fr_06_verbs_2_utf8.html)
 + [fr_07_suffixes_utf8.html](https://melopee.github.io/ithkuil_fr/fr_07_suffixes_utf8.html)
 + [fr_08_adjuncts_utf8.html](https://melopee.github.io/ithkuil_fr/fr_08_adjuncts_utf8.html)
-+ [fr_09_syntax_utf8.html](https://melopee.github.io/ithkuil_fr/fr_09_syntax_utf8.html)
-+ [fr_10_lexico-semantics_utf8.html](https://melopee.github.io/ithkuil_fr/fr_10_lexico-semantics_utf8.html)
++ ⁕ [fr_09_syntax_utf8.html](https://melopee.github.io/ithkuil_fr/fr_09_syntax_utf8.html)
++ ⁕ [fr_10_lexico-semantics_utf8.html](https://melopee.github.io/ithkuil_fr/fr_10_lexico-semantics_utf8.html)
 + [fr_11_script_utf8.htm](https://melopee.github.io/ithkuil_fr/fr_11_script_utf8.htm)
-+ [fr_12_numbers_utf8.htm](https://melopee.github.io/ithkuil_fr/fr_12_numbers_utf8.htm)
++ ⁕ [fr_12_numbers_utf8.htm](https://melopee.github.io/ithkuil_fr/fr_12_numbers_utf8.htm)
 + [fr_abbreviations.html](https://melopee.github.io/ithkuil_fr/fr_abbreviations.html)
 + [fr_faqs.html](https://melopee.github.io/ithkuil_fr/fr_faqs.html)
 + [fr_index_utf8.htm](https://melopee.github.io/ithkuil_fr/fr_index_utf8.htm)
 + [fr_lexicon_utf8.htm](https://melopee.github.io/ithkuil_fr/fr_lexicon_utf8.htm)
 + [fr_texts_utf8.html](https://melopee.github.io/ithkuil_fr/fr_texts_utf8.html)
+
+The ‹⁕› indicates that the translation of the pointed page is ondoing or finished
+
+The navigation tables were suppressed waiting for name files to be globally translated, and waiting for modify all hyperlinks in the several pages.
 
 # ithkuil_fr  
 Project of translating the grammar of ithkuil language of september in this version of september 2016 in french.  
