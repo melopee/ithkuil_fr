@@ -48,7 +48,29 @@ Transcriptions des nombres ‘billions’, ‘trillions’, ‘quadrillions’ d
 Les notes de traduction sont marquées entre [[ ]].  
 Les interrogations des traducteurs sont marquées entre { }.  
 
-Formatages intéressants à copie-coller, car ils reviennent souvent:  
+Formatages intéressants à copie-coller, car ils reviennent souvent; ainsi que d'autres petits trucs utiles:
+
+---
+``` perl -i -p -e 's/Slots/Emplacements/g;' -e 's/Slot/Emplacement/g;' -e 's/slots/emplacements/g;' -e 's/slot/emplacement/g;' -e 's/Stems/Radicaux/g;' -e 's/Stem/Radical/g;' -e 's/stems/radicaux/g;' -e 's/stem/radical/g;' -e 's/Roots/Racines/g;' -e 's/Root/Racine/g;' -e 's/roots/racines/g;' -e 's/root/racine/g;' -e 's/below/ci-dessous/g;' -e 's/above/ci-dessus/g;' -e 's/(see <a/(voir la <a/g;' -e 's/and/et/g;' -e 's/or/ou/g;' -e 's/consonantal/consonantique/g;' -e 's/vocalic/vocalique/g;' -e 's/discussed in/discuté dans la/g;' -e 's/Chapter/chapitre/g;' -e 's/chapter/chapitre/g;' -e 's/Formative/Formatif/g;' -e 's/formative/formatif/;' -e 's/respectively/respectivement/g;' -e 's/Mood/Humeur/g;' -e 's/mood/humeur/g;' -e 's/indicating/indicant/g;' -e 's/tone/ton/g;' -e 's/stress/accent/g;' -e 's/Desigation/Désignation/g;' -e 's/designation/désignation/g;' -e 's/penultimate/pénultième/g;' -e 's/indicant/indiquant/g;' -e 's/LISTEN/ÉCOUTER/g;' -e 's/Examples/Exemples/g;'
+```
+ -e 's///g;'
+---
+&scaron;
+&copy;
+&ccedil;
+&amp;
+&acirc;
+&ecirc;
+&ouml;
+&igrave;
+&ugrave;
+&agrave;
+&aacute;
+&gt;
+&lt;
+&Ucirc;
+&quot;
+&darr;
 ---
 Formules d'introduction des cas:  
 `Le cas INTERDEPENDANT est marqué par la valeur -<strong>üa</strong>- de <strong>Vc</strong>, à moins que les radicaux de <strong>Cr</strong> qui précèdent se finissent par un -<strong>w</strong> ou -<strong>y</strong>, auquel cas la valeur de <strong>Vc</strong> est -<strong>i’</strong>-.`  
